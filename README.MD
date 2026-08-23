@@ -1,3 +1,8 @@
+-=(Arabian_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 <h1 align="center">Arabian FPGA Core</h1>
   <img src="Useful Information/Arabian.png" width="800">
 <p align="center">
